@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    background-color:#dfddc7;
+}
+.head{ 
+    position:relative;
+    margin-top:0 auto;
+    margin-top: 80px;;
+    display: inline-block;
+    height: 450px;
+    width: 450px;
+    background-color: white;
+
+    color:black;
+    
+
+}
+h2{
+    letter-spacing: 5px;
+}
+.main{
+    
+    margin-top: 5px;;
+    display: inline-block;
+    height: 350px;
+    width: 350px;
+
+}
+.email{
+    border:0;
+    outline: 0;
+    width: 350px;
+    background: transparent;
+    border-bottom:1px  solid gray;
+    letter-spacing: 2px;   
+}
+.pass{
+    border: 0;
+    outline: 0;
+    width: 350px;
+    background: transparent;
+    border-bottom: 1px solid gray;
+    letter-spacing: 2px;
+    margin-top: 50px;
+
+    
+}
+#password{
+    position: relative;
+    text-decoration: underline;
+    top:10px;
+    padding-right: 60px;
+ }
+ #memorize{
+     position: relative;
+     padding-left: 30px;
+     top: 10px;
+ }
+#sign_up{
+    height: 40px;
+    width: 350px;
+    color: white;
+    background-color:#21bf73;
+    border:none;
+    border-radius: 20px;
+    margin-top: 90px;
+}
+#sign{
+    
+    margin-top:10px;
+    height: 40px;
+    width: 450px;
+    color: white;
+    background-color: #3b5998;
+    border:none;
+}
+#register{
+    padding-left: 10px;
+    text-decoration: underline;
+}
+a{
+    position: relative;
+    top: 15px;
+    color: gray;
+    text-decoration: none;
+}
+
+
+
+#face{
+    padding-right: 20px;
+}
